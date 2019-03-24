@@ -1,4 +1,4 @@
-# TokenVerification
+# External token verification for webhooks
 Rhosys services use JWTs for authorization to your webhooks, here is an example on how to verify them.
 
 This example applies to **Prosper** which allows for custom webhooks:
